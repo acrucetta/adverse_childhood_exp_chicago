@@ -1,4 +1,4 @@
-# How Crimes is Affecting Chicago's Future Generations
+# How Crime is Affecting Chicago's Future Generations
 **Medium Article**: https://medium.com/@andrescrucetta/how-crime-is-affecting-chicagos-future-generations-2cd48355ed14
 
 ### Defining the problem
