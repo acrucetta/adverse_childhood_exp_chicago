@@ -27,6 +27,5 @@ Source: Child Welfare Information Gateway
 
 ### How do Adverse Childhood Experiences affect kids development?
 <div>
-<img src="https://socialworksynergy.files.wordpress.com/2013/12/ace-pyramid-cdc.gif?w=369&zoom=2
-" width="500"/>
+<img src="https://socialworksynergy.files.wordpress.com/2013/12/ace-pyramid-cdc.gif?w=369&zoom=2" width="500"/>
 </div>
