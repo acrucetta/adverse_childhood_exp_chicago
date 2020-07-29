@@ -1,7 +1,7 @@
 # How Crimes is Affecting Chicago's Future Generations
 **Medium Article**: https://medium.com/@andrescrucetta/how-crime-is-affecting-chicagos-future-generations-2cd48355ed14
 
-# Defining the problem
+### Defining the problem
 This notebook is part of the final project for the Udacity Data Science Capstone Project. In it, I'm going to explore community areas in which there are the most Adverse Child Experiences and the type of community health resources available to Children.
 
 My goal is to determine those areas in danger, and share the findings with the Chicago Public Health Department through a web application and Medium post.
@@ -29,3 +29,6 @@ Source: Child Welfare Information Gateway
 <div>
 <img src="https://socialworksynergy.files.wordpress.com/2013/12/ace-pyramid-cdc.gif?w=369&zoom=2" width="500"/>
 </div>
+
+### Data Sources
+*   https://data.cityofchicago.org/
